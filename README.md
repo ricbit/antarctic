@@ -7,11 +7,11 @@ variants of the game. Compile using [sjasmplus](https://github.com/z00m128/sjasm
 
 ## Files
 
-| File              | ROM variant          | MD5                                |
-| ----------------- | -------------------- | ---------------------------------- |
-| `antarctic_1.asm` | First release  (JP)  | `97ee96f00fac07a5d70a3801d8a9805a` |
-| `antarctic_2.asm` | Second release (JP)  | `31620f841985e617f0b887684873ac3e` |
-| `antarctic_3.asm` | Third release  (EU)  | `4b1b0ab36e6ddb1fa317cf43e0a4611a` |
+| File              | ROM variant          | MD5        |
+| ----------------- | -------------------- | ---------- |
+| `antarctic_1.asm` | First release  (JP)  | `97ee96f0` |
+| `antarctic_2.asm` | Second release (JP)  | `31620f84` |
+| `antarctic_3.asm` | Third release  (EU)  | `4b1b0ab3` |
 
 ## What's in here
 
